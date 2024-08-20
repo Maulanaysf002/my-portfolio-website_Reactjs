@@ -13,3 +13,36 @@ export const img = {
   instagram,
   linkedin,
 };
+
+export const constacs = [
+  {
+    id: 0,
+    name: 'Github',
+    img: github,
+    url: '',
+  },
+  {
+    id: 1,
+    name: 'Email',
+    img: email,
+    url: '',
+  },
+  {
+    id: 2,
+    name: 'WhatsApp',
+    img: whatsapp,
+    url: '',
+  },
+  {
+    id: 3,
+    name: 'Instagram',
+    img: instagram,
+    url: '',
+  },
+  {
+    id: 4,
+    name: 'Linkedin',
+    img: linkedin,
+    url: '',
+  },
+];

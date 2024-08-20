@@ -11,15 +11,15 @@ function App() {
     AOS.init();
   }, []);
   return (
-    <main className="bg-black flex flex-col gap-1">
-      <div className="flex flex-col lg:flex-row p-5 text-white gap-3 h-[50%]">
+    <main className="bg-black flex flex-col justify-between">
+      <div className="flex flex-col lg:flex-row p-5 text-white gap-3 h-auto w-full">
         <PersonalData />
-        <div className="flex flex-col gap-3 lg:w-[100%]">
+        <div className="flex flex-col gap-3 sm:w-[60%] w-full">
           <Contact />
           <Skils />
         </div>
       </div>
-      <div className="flex p-5 text-white gap-3 h-[100vh]">
+      <div className="flex p-5 text-white gap-3 h-screen">
         <Information />
       </div>
     </main>

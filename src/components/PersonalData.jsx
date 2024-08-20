@@ -2,9 +2,9 @@ import { img } from '../assets/assets';
 
 const PersonalData = () => {
   return (
-    <div data-aos="fade-up" data-aos-duration="1000" className="w-[100%] lg:w-[50%] bg-neutral-900 rounded-lg p-10 cursor-pointer border-blue-400 hover:border-2 hover:ease-in hover:duration-300">
+    <div data-aos="fade-up" data-aos-duration="1000" className="sm:w-[40%] w-full h-full bg-neutral-900 rounded-lg p-10 cursor-pointer border-blue-400 hover:border-2 hover:ease-in hover:duration-300">
       <div className="flex flex-col items-center justify-center text-center">
-        <img src={img.profile_img} alt="" className="w-7/12 rounded-full" />
+        <img src={img.profile_img} alt="" className="w-5/12 rounded-full" />
         <p className="mt-5">Hi, I`am</p>
         <h1 className=" text-2xl sm:text-4xl font-bold">MAULANA YUSUF</h1>
         <h1 className=" font-bold text-blue-400">FULLSTACK DEVELOPER.</h1>
