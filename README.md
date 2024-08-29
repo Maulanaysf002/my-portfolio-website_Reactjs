@@ -1,4 +1,4 @@
-# My Awesome Project 🚀
+# My Portfolio Project 🚀
 
 ![License](https://img.shields.io/github/license/Maulanaysf002/my-portfolio-website_Reactjs?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/Maulanaysf002/my-portfolio-website_Reactjs?style=flat-square)
@@ -7,18 +7,18 @@
 
 ## ✨ Overview
 
-**My Awesome Project** adalah [deskripsi singkat proyek kamu]. Proyek ini bertujuan untuk [tujuan proyek]. Dibangun dengan [teknologi utama yang digunakan], proyek ini menawarkan [fitur utama yang menarik].
+**My Portfolio Project** adalah sebuah project individu utuk membangun website portfolio pribadi menggunakan react js. Proyek ini bertujuan untuk meningkatkan kemampuan saya dalam mebangun react app dan juga memberikan keyakinan pada saya kalau saya terbiasa mengerjakan project react. Dibangun dengan React js, proyek ini menawarkan fitur untuk melihat informasi tentang perjalanan saya dalam dunia pemprograman.
 
 ## 🌟 Fitur Utama
 
-- ✅ Fitur 1: [Deskripsi singkat fitur 1]
-- ✅ Fitur 2: [Deskripsi singkat fitur 2]
-- ✅ Fitur 3: [Deskripsi singkat fitur 3]
+- ✅ Fitur 1: Profile Saya
+- ✅ Fitur 2: Contact Untuk Menghubungi Saya
+- ✅ Fitur 3: Skills
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **[Bahasa Pemrograman atau Framework]**: [Deskripsi singkat atau alasan menggunakannya]
-- **[Library atau Tool lainnya]**: [Deskripsi singkat atau alasan menggunakannya]
+- **[Javascript]**: javascript digunakan dengan alasan saya sedang belajar membuat website berbasis teknolgi javascript.
+- **[React js]**: saya menggunakan react karena saat ini merupakan library frontend yang sangat popule berbasis javascript.
 
 ## ⚙️ Instalasi
 
@@ -28,6 +28,17 @@ Langkah-langkah untuk menginstal proyek ini secara lokal:
    ```bash
    git clone https://github.com/username/repo-name.git
    cd repo-name
+
+## 🤝 Kontribusi
+Kami menyambut kontribusi dari siapapun! Jika kamu ingin berkontribusi, ikuti langkah berikut:
+
+- Fork proyek ini.
+- Buat branch untuk fitur atau perbaikan baru (git checkout -b feature-name).
+- Commit perubahan (git commit -m 'Add some feature').
+- Push ke branch (git push origin feature-name).
+- Buat Pull Request.
+
+## ⚠️ Proyek ini masih dalam tahap pengembangan
 
 # React + Vite
 
