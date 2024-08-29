@@ -26,7 +26,7 @@ Langkah-langkah untuk menginstal proyek ini secara lokal:
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/Maulanaysf002/my-portfolio-website_Reactjs.git
    cd repo-name
 
 ## 🤝 Kontribusi
