@@ -10,6 +10,12 @@ import bootstrap from './coding-skills/bootstrap.svg';
 import expressjs from './coding-skills/expressjs.svg';
 import mysql from './coding-skills/mysql.svg';
 import tailwindcss from './coding-skills/tailwindcss.svg';
+import python from './coding-skills/python-original.svg';
+import html from './coding-skills/html5.svg';
+import css from './coding-skills/css.svg';
+import js from './coding-skills/js.svg';
+import digiyok from './digiyok-logo.png';
+import incomso from './logoincomso.png';
 
 export const img = {
   profile_img,
@@ -18,12 +24,8 @@ export const img = {
   whatsapp,
   instagram,
   linkedin,
-  laravel,
-  react,
-  bootstrap,
-  expressjs,
-  mysql,
-  tailwindcss,
+  digiyok,
+  incomso,
 };
 
 export const constacs = [
@@ -89,5 +91,25 @@ export const skills = [
     id: 5,
     name: 'Tailwind',
     img: tailwindcss,
+  },
+  {
+    id: 6,
+    name: 'Python',
+    img: python,
+  },
+  {
+    id: 7,
+    name: 'HTML',
+    img: html,
+  },
+  {
+    id: 8,
+    name: 'CSS',
+    img: css,
+  },
+  {
+    id: 9,
+    name: 'Javascript',
+    img: js,
   },
 ];

@@ -7,7 +7,7 @@ const PersonalData = () => {
         <img src={img.profile_img} alt="" className="w-5/12 rounded-full" />
         <p className="mt-5">Hi, I`am</p>
         <h1 className=" text-2xl sm:text-4xl font-bold font-mono">MAULANA YUSUF</h1>
-        <h1 className=" font-bold text-blue-400">FULLSTACK DEVELOPER.</h1>
+        <h1 className=" font-bold text-blue-400 font-mono">FULLSTACK DEVELOPER.</h1>
         <div className="mt-7 flex flex-col items-center">
           <p className="font-bold">A bit about me</p>
           <p className="text-center font-light leading-5 font-mono">

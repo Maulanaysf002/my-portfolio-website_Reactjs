@@ -1,4 +1,4 @@
-import Information from './components/Information';
+import WorkExp from './components/WorkExp';
 import PersonalData from './components/PersonalData';
 import Skils from './components/Skils';
 import Contact from './components/Contact';
@@ -20,9 +20,8 @@ function App() {
           <Skils />
         </div>
       </div>
-      <div className="flex p-5 text-white gap-3 lg:h-screen bg-zinc-950">
-        <Information />
-        <h1>Haloooooo</h1>
+      <div className="flex p-5 text-white gap-3 bg-zinc-950 overflow-x-hidden">
+        <WorkExp />
       </div>
     </main>
   );
