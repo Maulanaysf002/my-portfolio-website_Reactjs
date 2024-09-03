@@ -1,0 +1,91 @@
+[
+  {
+    "id": 0,
+    "institution": "Digiyok",
+    "img": "src/assets/digiyok-logo.png",
+    "list-color": "border-green-400",
+    "experience": [
+      {
+        "date": "Jul 2024",
+        "project-name": "Membuat Sistem Pemuda Tangsel",
+        "achievement": [
+          "Berhasil Merancang Database Sistem.",
+          "Berhasil Membuat Frontend dan Backend Sistem Menggunakan Laravel.",
+          "Berhasil Mendeploy Sistem Ke Server."
+        ]
+      },
+      {
+        "date": "Jun 2024",
+        "project-name": "Menambahkan Modul Tracking Pegawai pada Sistem Sekolah Digiyok",
+        "achievement": [
+          "Berhasil Merancang Database Modul.",
+          "Berhasil Membuat Frontend dan Backend Sistem Menggunakan Laravel.",
+          "Berhasil Mendeploy Sistem Ke Server."
+        ]
+      },
+      {
+        "date": "Jun 2024",
+        "project-name": "Membuat Website Company Profile untuk AKAR",
+        "achievement": [
+          "Berhasil Membuat Design Website.",
+          "Berhasil Implementasi Website dalam 1 hari.",
+          "Berhasil Mendeploy Website ke Server"
+        ]
+      },
+      {
+        "date": "Feb 2024",
+        "project-name": "Memindahkan Wesbite Iklum Stialan ke Server Baru",
+        "achievement": [
+          "Berhasil Memperbaiki Beberapa Bug pada Website.",
+          "Berhasil Memindahkan Website ke Server yang Baru.",
+          "Mencoba Melakukan Revisi Tampilan Sesuai Arahan."
+        ]
+      },
+      {
+        "date": "Nov-Feb 2023-2024",
+        "project-name": "Membuat Sistem Kelola Pelatihan Untuk ITTS",
+        "achievement": [
+          "Berhasil Merancang Database Sistem Dengan Tim.",
+          "Menerapkan Modul Download Sertifikat Otomatis Berdasarkan Kode.",
+          "Berhasil Membuat Frontend dan Backend Sistem Menggunakan Laravel.",
+          "Berhasil Melakukan Revisi Sesuai Arahan.",
+          "Sistem Digunakan Oleh Lebih Dari 200 Orang."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "institution": "PT Lumintoo Sukses Incomso",
+    "img": "src/assets/logoincomso.png",
+    "list-color": "border-yellow-400",
+    "experience": [
+      {
+        "date": "Jul 2024",
+        "project-name": "Membuat Sistem Pemuda Tangsel",
+        "achievement": [
+          "Berhasil Merancang Database Siste.",
+          "Berhasil Membuat Frontend dan Backend Sistem Menggunakan Laravel.",
+          "Berhasil Mendeploy Sistem Ke Server."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "institution": "Individual Project",
+    "img": "src/assets/rocket.png",
+    "list-color": "border-red-400",
+    "experience": [
+      {
+        "date": "Jul 2024",
+        "project-name": "Membuat Sistem Pemuda Tangsel",
+        "achievement": [
+          "Berhasil Merancang Database Siste.",
+          "Berhasil Membuat Frontend dan Backend Sistem Menggunakan Laravel.",
+          "Berhasil Mendeploy Sistem Ke Server."
+        ]
+      }
+    ]
+  }
+]
